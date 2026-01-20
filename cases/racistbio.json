@@ -3,12 +3,12 @@
   "title": "Racist Medical Algorithms",
   "difficulty": "Difficult",
   "discipline": ["Medical Anthropology", "Anthropology of Science & Technology", "Critical Race Studies"],
-  "content": "<p>A hospital in the United States uses a standard clinical algorithm to assess kidney function... [rest of content from your file]</p>",
+  "content": "<p>A hospital in the United States uses a standard clinical algorithm to assess kidney function... [rest of text from your source]</p>",
   "concepts": [
-    { "id": "rbio", "name": "Racist Biology", "terms": ["racist biology"], "definition": "..." },
-    { "id": "construct", "name": "Social Construct", "terms": ["social construct", "cultural construct", "construct", "construction"], "definition": "..." },
-    { "id": "instrace", "name": "Institutionalized Racism", "terms": ["institutionalized racism", "structural racism", "algorithmic racism"], "definition": "..." },
-    { "id": "racebod", "name": "Racialized Bodies", "terms": ["racialized bodies", "racialized body"], "definition": "..." },
-    { "id": "racemed", "name": "Racialization of Medicine", "terms": ["racialization of medicine", "racialization"], "definition": "..." }
+    { "id": "rbio", "name": "Racist Biology", "terms": ["racist biology"], "definition": "The false belief that 'races' are natural, biological divisions of humanity underpinned by essential nature rather than social categorization." },
+    { "id": "construct", "name": "Social Construct", "terms": ["social construct", "cultural construct", "construct", "construction"], "definition": "A category, concept, or distinction that is created, stabilized, and given meaning through collective social practices rather than arising naturally or universally from biology." },
+    { "id": "instrace", "name": "Institutionalized Racism", "terms": ["institutionalized racism", "structural racism", "algorithmic racism"], "definition": "Racism operating not through individual intent, but through routine procedures and standardized knowledge that appear neutral." },
+    { "id": "racebod", "name": "Racialized Bodies", "terms": ["racialized bodies", "racialized body"], "definition": "A body that is socially interpreted, classified, and governed through racial meanings and assumptions." },
+    { "id": "racemed", "name": "Racialization of Medicine", "terms": ["racialization of medicine", "racialization"], "definition": "The processes through which medical knowledge and institutions come to treat socially constructed racial categories as biologically meaningful." }
   ]
 }
