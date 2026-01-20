@@ -3,10 +3,25 @@
   "title": "Laundry in the Kitchen?",
   "difficulty": "Easy",
   "discipline": ["Cultural Anthropology", "Material Culture"],
-  "content": "<p>When Kirsten Bell moved from Canada to London, she was struck by a common British habit... [rest of text from your source]</p>",
+  "content": "<p>When Kirsten Bell moved from Canada to London, she was struck by a common British habit that baffles many foreigners: the insistence on placing washing machines in the kitchen. To many Canadians and Americans, the kitchen is a space for food, while the laundry—associated with 'dirty' clothes—belongs in a basement, mudroom, or separate utility area.</p><p>In the UK, this convention is so entrenched it is rarely questioned. However, when a prominent British TV host suggested that mixing 'poo, pee, and period' (from laundry) with food preparation was 'disgusting,' she set off a massive cultural debate.</p><p>Historically, British kitchens were service rooms for 'dirt, women, and servants.' But as modern homes became 'open-plan,' the kitchen was reclassified as a social, public living space. For foreigners, this reclassification makes the washing machine feel like an intrusion—a piece of 'dirt' in a clean zone.</p><hr><p><strong>Source:</strong> Based on <em>Do Washing Machines Belong in Kitchens? Many Brits Say Yes.</em> by Kirsten Bell, featured on <a href=\"https://www.sapiens.org/culture/silent-but-deadly-kirsten-bell/\" target=\"_blank\">SAPIENS.org</a>.</p>",
   "concepts": [
-    { "id": "mop", "name": "Matter Out of Place", "terms": ["matter out of place"], "definition": "A concept by Mary Douglas suggesting that 'dirt' is simply anything that is in a location where it does not belong according to a culture's classification system." },
-    { "id": "nat", "name": "Naturalization", "terms": ["naturalization", "naturalized"], "definition": "The process by which a cultural choice becomes so routine that it is treated as an inevitable 'fact' of life rather than a choice." },
-    { "id": "space", "name": "Spatial Classification", "terms": ["spatial classification", "classification", "ordering"], "definition": "The way a society divides and labels physical environments (public vs. private, clean vs. dirty) to dictate which behaviors are appropriate in those spaces." }
+    {
+      "id": "mop",
+      "name": "Matter Out of Place",
+      "terms": ["matter out of place"],
+      "definition": "A concept by Mary Douglas suggesting that 'dirt' is simply anything that is in a location where it does not belong according to a culture's classification system."
+    },
+    {
+      "id": "nat",
+      "name": "Naturalization",
+      "terms": ["naturalization", "naturalized"],
+      "definition": "The process by which a cultural choice becomes so routine that it is treated as an inevitable 'fact' of life rather than a choice."
+    },
+    {
+      "id": "space",
+      "name": "Spatial Classification",
+      "terms": ["spatial classification", "classification", "ordering"],
+      "definition": "The way a society divides and labels physical environments (public vs. private, clean vs. dirty) to dictate which behaviors are appropriate in those spaces."
+    }
   ]
 }
