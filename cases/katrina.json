@@ -3,13 +3,13 @@
   "title": "Katrina: Recovery by the Market",
   "difficulty": "Difficult",
   "discipline": ["Economic Anthropology", "Political Anthropology", "Disaster Recovery"],
-  "content": "<p>In August 2005, Henry and Gladys Bradlieu... [rest of content from your file]</p>",
+  "content": "<p>In August 2005, Henry and Gladys Bradlieu... [rest of text from your source]</p>",
   "concepts": [
-    { "id": "mkt_rec", "name": "Market-Based Recovery", "terms": ["for-profit recovery", "market-based recovery"], "definition": "..." },
-    { "id": "neolib", "name": "Neoliberalism", "terms": ["neoliberalism", "neoliberal"], "definition": "..." },
-    { "id": "affect", "name": "Affect Economy", "terms": ["affect economy"], "definition": "..." },
-    { "id": "diss_cap", "name": "Disaster Capitalism", "terms": ["disaster capitalism"], "definition": "..." },
-    { "id": "need", "name": "Moralization of Need", "terms": ["moralization of need"], "definition": "..." },
-    { "id": "struct_ineq", "name": "Structural Inequality", "terms": ["structural inequality", "structural violence"], "definition": "..." }
+    { "id": "mkt_rec", "name": "Market-Based Recovery", "terms": ["for-profit recovery", "market-based recovery"], "definition": "The outsourcing of government disaster relief to private, for-profit corporations..." },
+    { "id": "neolib", "name": "Neoliberalism", "terms": ["neoliberalism", "neoliberal"], "definition": "A political and economic framework that emphasizes market solutions and privatization..." },
+    { "id": "affect", "name": "Affect Economy", "terms": ["affect economy"], "definition": "A system in which emotions such as compassion and urgency become resources that mobilize volunteer labor..." },
+    { "id": "diss_cap", "name": "Disaster Capitalism", "terms": ["disaster capitalism"], "definition": "The practice of using crises as opportunities for profit, where emergency conditions justify corporate expansion..." },
+    { "id": "need", "name": "Moralization of Need", "terms": ["moralization of need"], "definition": "The framing of assistance as something that must be deserved or earned..." },
+    { "id": "struct_ineq", "name": "Structural Inequality", "terms": ["structural inequality", "structural violence"], "definition": "Persistent patterns of disadvantage produced by historical and institutional arrangements..." }
   ]
 }
