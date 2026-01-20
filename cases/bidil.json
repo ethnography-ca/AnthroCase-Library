@@ -3,13 +3,13 @@
   "title": "Race in a Bottle",
   "difficulty": "Difficult",
   "discipline": ["Medical Anthropology", "Anthropology of Science & Technology", "Critical Race Studies"],
-  "content": "<p>In 2005, the U.S. Food and Drug Administration (FDA) approved <strong>BiDil</strong>... [rest of content from your file]</p>",
+  "content": "<p>In 2005, the U.S. Food and Drug Administration (FDA) approved <strong>BiDil</strong>... [rest of text from your source]</p>",
   "concepts": [
-    { "id": "rac_med", "name": "Racialized Medicine", "terms": ["racialized medicine", "ethnic drug", "race-specific"], "definition": "..." },
-    { "id": "proxy", "name": "Race as a Proxy", "terms": ["proxy", "substitute", "placeholder"], "definition": "..." },
-    { "id": "knowledge", "name": "Knowledge Production", "terms": ["knowledge production"], "definition": "..." },
-    { "id": "biol_soc", "name": "Biologization of Social Problems", "terms": ["biologization", "social determinants"], "definition": "..." },
-    { "id": "myth", "name": "Race as a Biological Myth", "terms": ["biological myth", "powerful myth"], "definition": "..." },
-    { "id": "medicalization", "name": "Medicalization", "terms": ["medicalization", "medicalized"], "definition": "..." }
+    { "id": "rac_med", "name": "Racialized Medicine", "terms": ["racialized medicine", "ethnic drug", "race-specific"], "definition": "The process by which pharmaceutical regulation and clinical practice treat socially constructed racial categories as if they are meaningful biological variables for treatment." },
+    { "id": "proxy", "name": "Race as a Proxy", "terms": ["proxy", "substitute", "placeholder"], "definition": "Race, a social category, is used to stand in for other factors that are difficult to measure directly (structural violence, discrimination, or inequality), often simplifying complex realities in the process." },
+    { "id": "knowledge", "name": "Knowledge Production", "terms": ["knowledge production"], "definition": "The social and institutional processes through which knowledge is created, validated, circulated, and stabilized, including decisions about methods, categories, evidence, and authority." },
+    { "id": "biol_soc", "name": "Biologization of Social Problems", "terms": ["biologization", "social determinants"], "definition": "Explaining health disparities (caused by inequality, disxrimination, structural violence) as being the result of innate biological differences between groups." },
+    { "id": "myth", "name": "Race as a Biological Myth", "terms": ["biological myth", "powerful myth"], "definition": "The fact that while race has powerful social and material effects, it does not correspond to discrete, biologically distinct human groups grounded in genetics." },
+    { "id": "medicalization", "name": "Medicalization", "terms": ["medicalization", "medicalized"], "definition": "The process through which social problems or forms of difference come to be defined and treated as medical issues, often shifting attention away from social, political, or structural causes." }
   ]
 }
