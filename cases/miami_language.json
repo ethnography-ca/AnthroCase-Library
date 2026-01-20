@@ -3,13 +3,13 @@
   "title": "Beyond the 'Extinct' Narrative",
   "difficulty": "Medium",
   "discipline": ["Linguistic Anthropology", "Indigenous Studies"],
-  "content": "<p>In the mid-20th century, the <strong>Myaamiaataweenki</strong> language... [rest of content from your file]</p>",
+  "content": "<p>In the mid-20th century, the <strong>Myaamiaataweenki</strong> language... [rest of text from your source]</p>",
   "concepts": [
-    { "id": "bio_metaphor", "name": "Biological Metaphor", "terms": ["biological metaphors", "biological metaphor"], "definition": "..." },
-    { "id": "erase", "name": "Erasure", "terms": ["erasure", "earased", "erases"], "definition": "..." },
-    { "id": "setller colonialism", "name": "Settler Colonialism", "terms": ["colonialism", "settler colonialism"], "definition": "..." },
-    { "id": "colknow", "name": "Colonial Knowledge", "terms": ["colonial knowledge", "colonial logic"], "definition": "..." },
-    { "id": "reclamation", "name": "Language Reclamation", "terms": ["reclaim", "reclamation"], "definition": "..." },
-    { "id": "langidea", "name": "Language Ideology", "terms": ["language ideology"], "definition": "..." }
+    { "id": "bio_metaphor", "name": "Biological Metaphor", "terms": ["biological metaphors", "biological metaphor"], "definition": "The use of biological terms to describe entities or processes that are not necessarily biological..." },
+    { "id": "erase", "name": "Erasure", "terms": ["erasure", "earased", "erases"], "definition": "How dominant narratives make certain histories invisible." },
+    { "id": "setller colonialism", "name": "Settler Colonialism", "terms": ["colonialism", "settler colonialism"], "definition": "A form of colonialism in which outsiders come to stay on Indigenous land..." },
+    { "id": "colknow", "name": "Colonial Knowledge", "terms": ["colonial knowledge", "colonial logic"], "definition": "Ways of thinking, classifying, and explaining the world that developed through colonial histories..." },
+    { "id": "reclamation", "name": "Language Reclamation", "terms": ["reclaim", "reclamation"], "definition": "Community-led efforts to restore, use, and pass on a language that was suppressed or disrupted by colonial violence..." },
+    { "id": "langidea", "name": "Language Ideology", "terms": ["language ideology"], "definition": "Shared beliefs and assumptions about what language is, how it should be used, and who counts as a legitimate speaker..." }
   ]
 }
