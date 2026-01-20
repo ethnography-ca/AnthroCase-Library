@@ -2,15 +2,54 @@
   "id": "Leukemia",
   "title": "Weisses Blut",
   "difficulty": "Medium",
-  "discipline": ["Medical Anthropology", "Anthropology of Science & Technology", "Linguistic Anthropology"],
+  "discipline": [
+    "Medical Anthropology",
+    "Anthropology of Science & Technology",
+    "Linguistic Anthropology"
+  ],
   "content": "<p>In the mid-1800s, doctors began encountering patients whose blood appeared milky and thick. John Hughes Bennett, a prominent physician, looked at a drop of this blood under a microscope. To him—and the medical establishment of the time—excess white cells meant only one thing: pus.</p><p>He named the condition <strong>suppuration of the blood</strong>. This name carried an immediate \"diagnostic logic\": Pus meant infection, and infection meant bacteria. Once the disease had that name, doctors treated it as an infection. Because they \"knew\" what it was, they stopped looking for what else it could be.</p><p>However, a young and inexperienced doctor named Rudolf Virchow looked at similar patients and hesitated. He saw the same white-heavy blood, but he refused to \"fill in\" the meaning. Instead of forcing an explanation into the name, he chose a simple description. He called it <em>weisses Blut</em>—white blood—later translated into Greek as leukemia.</p><p>Virchow’s name didn’t claim a cause. It didn't tell a story about infection. It stayed \"neutral,\" leaving a semantic void (an empty space) that allowed for uncertainty. Decades later, this openness allowed doctors to realize leukemia wasn’t an infection at all, but a cancer of the blood.</p><hr><p><strong>Source:</strong> This case is discussed in the Radio Lab episode \"Hello, My Name Is...\" featuring Dr. Siddhartha Mukherjee: <a href=\"https://radiolab.org/podcast/hello-my-name\">https://radiolab.org/podcast/hello-my-name</a></p>",
   "concepts": [
-    { "id": "nat", "name": "Naturalization", "terms": ["naturalization", "naturalized"], "definition": "The process by which a human choice or cultural category becomes treated as an objective, unchangeable law of nature." },
-    { "id": "bb", "name": "Black-Boxing", "terms": ["black-boxing", "black box"], "definition": "A way of looking at a system or process where the internal complexity is hidden, and only the input and output are considered." },
-    { "id": "theory-laden", "name": "Theory-Laden Observation", "terms": ["theory-laden"], "definition": "The idea that we never see 'raw' facts; we see data through the 'glasses' of our existing theories." },
-    { "id": "commit", "name": "Epistemic Commitment", "terms": ["epistemic commitment", "commitment to an epistemy"], "definition": "When scientists are so committed to generally accepted theories, methods, and ways of knowing that they can no longer 'see' the raw data." },
-    { "id": "perform", "name": "Performative Labeling", "terms": ["performative labeling", "power of labels", "power of names"], "definition": "How naming a thing actually changes how people act toward it." },
-    { "id": "taxonomy", "name": "Taxonomy", "terms": ["taxonomy", "classification", "classified"], "definition": "How we sort the world into boxes." },
-    { "id": "anomaly", "name": "The Anomaly", "terms": ["anomaly"], "definition": "Something that doesn't fit the existing boxes." }
+    {
+      "id": "nat",
+      "name": "Naturalization",
+      "terms": ["naturalization", "naturalized"],
+      "definition": "The process by which a human choice or cultural category becomes treated as an objective, unchangeable law of nature."
+    },
+    {
+      "id": "bb",
+      "name": "Black-Boxing",
+      "terms": ["black-boxing", "black box"],
+      "definition": "A way of looking at a system or process where the internal complexity is hidden, and only the input and output are considered."
+    },
+    {
+      "id": "theory-laden",
+      "name": "Theory-Laden Observation",
+      "terms": ["theory-laden"],
+      "definition": "The idea that we never see 'raw' facts; we see data through the 'glasses' of our existing theories."
+    },
+    {
+      "id": "commit",
+      "name": "Epistemic Commitment",
+      "terms": ["epistemic commitment", "commitment to an epistemy"],
+      "definition": "When scientists are so committed to generally accepted theories, methods, and ways of knowing that they can no longer 'see' the raw data."
+    },
+    {
+      "id": "perform",
+      "name": "Performative Labeling",
+      "terms": ["performative labeling", "power of labels", "power of names"],
+      "definition": "How naming a thing actually changes how people act toward it."
+    },
+    {
+      "id": "taxonomy",
+      "name": "Taxonomy",
+      "terms": ["taxonomy", "classification", "classified"],
+      "definition": "How we sort the world into boxes."
+    },
+    {
+      "id": "anomaly",
+      "name": "The Anomaly",
+      "terms": ["anomaly"],
+      "definition": "Something that doesn't fit the existing boxes."
+    }
   ]
 }
