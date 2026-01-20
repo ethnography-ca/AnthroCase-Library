@@ -1,0 +1,55 @@
+{
+  "id": "zombie_debt",
+  "title": "Government Zombie Debt",
+  "difficulty": "Difficult",
+  "discipline": [
+    "Political Anthropology",
+    "Legal Anthropology",
+    "Economic Anthropology"
+  ],
+  "content": "<p>In 2018, Dreama Richardson, age 72, and her extended family in Steger, Illinois, received a letter from the Illinois Department of Human Services (IDHS) claiming she owed $1,323 for alleged overpayments of cash assistance and food stamps from 1988–1989 — benefits she received three decades earlier. The letter stated that because she had not responded within 90 days of the original notices back in the 1980s, her right to appeal had expired, and the government would now attempt to collect the debt by withholding part of her Social Security, her only source of income.</p><p>Dreama was confused and frightened. She did not recall ever receiving the original notice, and the supposed overpayment stemmed from an error: her daughter, Star, had not lived with her during the period in question, meaning Dreama was not ineligible for the benefits she had received. Despite this, the state’s decision stood, and Dreama and her family were forced into a Kafkaesque bureaucratic appeal process requiring proof of circumstances from three decades ago — receipts, pay stubs, and records that most people would not have.</p><p>This kind of claim — called <strong>zombie debt</strong> in the private sector when old, disputed, or non-legitimate debts are pursued by collection agencies — is especially pernicious when it comes from the government. Unlike private creditors, which are regulated by consumer protections that allow people to demand evidence of actual debt, government zombie debts have no such safeguards. They can be pursued indefinitely, collected through tax refunds, benefits, or future income, and carry the implicit threat of financial and material insecurity for recipients already living on the margins.</p><p>Dreama’s appeal, even with the help of free legal aid, was dismissed on procedural grounds: because the appeal was not filed within the original 90-day window from 1989, the administrative law body claimed it lacked jurisdiction to review the merits of her case. Meanwhile, tens of thousands of similar zombie debt notices are sent out by IDHS each year.</p><p>Another case in Chicago highlights how these “debts” can debilitate struggling households over years. Tim Pegues, a 75-year-old man who had used unemployment and food assistance to rebuild his life after hardship, was told he owed the state $7,866 because of an error the agency acknowledged was its own. Without legal protections, he entered a payment plan of $5 a month — a sum that, while small in nominal terms, represented real sacrifice for someone living on a fixed income. After 16 years of monthly payments, he finally decided to stop paying, even as he feared his home could be taken to satisfy a debt he did not truly owe.</p><hr><strong>Source:</strong> <a href=\"https://www.theguardian.com/law/2019/oct/15/zombie-debt-benefits-overpayment-poverty\" target=\"_blank\">The Guardian, Zombie debts are hounding struggling Americans” by Dr. Virginia Eubanks</a>.",
+  "concepts": [
+    {
+      "id": "Bureauc",
+      "name": "Bureaucratic Power",
+      "terms": ["bureaucratic power", "power of paperwork", "power of bureaucracy"],
+      "definition": "The ability of institutions to shape people’s lives through rules, forms, deadlines, and documentation requirements, often without direct human interaction or accountability."
+    },
+    {
+      "id": "admin_burden",
+      "name": "Administrative Burden",
+      "terms": ["administrative burden"],
+      "definition": "The learning, compliance, and psychological costs that individuals must bear to access public services or contest decisions, which often fall most heavily on people with fewer resources."
+    },
+    {
+      "id": "proc_just",
+      "name": "Procedural Justice",
+      "terms": ["procedural justice"],
+      "definition": "The idea that fairness is judged by whether proper procedures are followed, even when outcomes are harmful or unjust, allowing institutions to deny responsibility by pointing to rules."
+    },
+    {
+      "id": "leg_prec",
+      "name": "Legal Precarity",
+      "terms": ["precarity", "vulnerable", "legal precarity", "precarious"],
+      "definition": "A state of existence where one's legal status or rights are fragile and subject to the arbitrary decisions of state agencies, leading to a permanent sense of instability."
+    },
+    {
+      "id": "temp_gov",
+      "name": "Temporal Governance",
+      "terms": ["temporal governance"],
+      "definition": "The use of time—deadlines, waiting periods, delays, and expired appeal windows—as a tool of control that determines who can access rights or challenge decisions."
+    },
+    {
+      "id": "auto_gov",
+      "name": "Automated Governance",
+      "terms": ["automated governance"],
+      "definition": "Decision-making systems that rely on databases, algorithms, and standardized processes rather than human judgment, making errors difficult to detect or challenge."
+    },
+    {
+      "id": "moral_pov",
+      "name": "Moralization of Poverty",
+      "terms": ["moralization of poverty", "individual blame"],
+      "definition": "The framing of people who receive public assistance as suspect, irresponsible, or undeserving, often justifying surveillance, punishment, or debt recovery."
+    }
+  ]
+}
