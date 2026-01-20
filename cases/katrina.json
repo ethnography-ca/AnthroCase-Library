@@ -2,14 +2,60 @@
   "id": "katrina",
   "title": "Katrina: Recovery by the Market",
   "difficulty": "Difficult",
-  "discipline": ["Economic Anthropology", "Political Anthropology", "Disaster Recovery"],
-  "content": "<p>In August 2005, Henry and Gladys Bradlieu... [rest of text from your source]</p>",
+  "discipline": [
+    "Economic Anthropology",
+    "Political Anthropology",
+    "Disaster Recovery"
+  ],
+  "content": "<p>In August 2005, Henry and Gladys Bradlieu, a retired African American couple, evacuated their home in the Gentilly neighborhood of New Orleans as Hurricane Katrina approached. When they returned months later, their house had been submerged under ten feet of water for weeks. Nearly everything they owned was destroyed. Like many residents, they received a small FEMA check and were placed in a temporary trailer parked on what had once been their front lawn. They expected that rebuilding would be difficult, but they believed that federal recovery programs would eventually help them return home.</p><p>As time passed, recovery proved far more complex than anticipated. Insurance payments were minimal or nonexistent, and federal loan programs offered only additional debt. The Bradlieus, living on a fixed income, could not qualify for loans and were unwilling to take on new financial burdens. By 2006, their only remaining hope was Louisiana&rsquo;s Road Home Program, a federally funded initiative designed to help homeowners rebuild by compensating for gaps between insurance payouts and repair costs.</p><p>Although the Road Home Program was publicly presented as a government recovery effort, it was administered by ICF International, a private, for-profit corporation. The application process required extensive documentation&mdash;much of which had been lost in the flood&mdash;and repeated interactions with rotating case officers. The Bradlieus&rsquo; application was eventually denied because they could not provide proof of ownership in a form recognized by the program, even though they had paid taxes and lived in the home for decades. This form of ownership, common among African American residents who had historically been denied access to conventional mortgages, was not accommodated by the program&rsquo;s design.</p><p>Years passed with little progress. By 2008, large portions of Road Home funds remained undistributed, while many applicants either received insufficient grants or were disqualified altogether. During this same period, ICF International reported significant revenue growth tied directly to its role in administering recovery funds, and company executives received substantial bonuses. Meanwhile, neighborhoods like Gentilly remained dotted with FEMA trailers, empty lots, and partially rebuilt homes, and residents described living in a prolonged state of uncertainty and emotional exhaustion.</p><p>In the absence of effective institutional support, recovery increasingly depended on volunteers and faith-based organizations. Grassroots groups and religious networks provided unpaid labor, emotional care, and material assistance that neither the government nor private contractors had delivered. Eventually, after years of waiting, the Bradlieus&rsquo; home was rebuilt largely through volunteer labor organized by a local community organizer, supported by church donations and visiting volunteers. Five years after Katrina, they were finally able to return home&mdash;but only after enduring years of displacement, stress, and loss.</p><hr><p><strong>Source:</strong> Adopted from the paper <em>The Other Road to Serfdom: Recovery by the Market and the Affect Economy in New Orleans</em> by Dr. Vincanne Adams, published in <em>Public Culture</em>. <a href=\"https://read.dukeupress.edu/public-culture/article-abstract/24/1%20(66)/185/31034/The-Other-Road-to-Serfdom-Recovery-by-the-Market?redirectedFrom=fulltext\" target=\"_blank\">Read the article</a>.</p>",
   "concepts": [
-    { "id": "mkt_rec", "name": "Market-Based Recovery", "terms": ["for-profit recovery", "market-based recovery"], "definition": "The outsourcing of government disaster relief to private, for-profit corporations..." },
-    { "id": "neolib", "name": "Neoliberalism", "terms": ["neoliberalism", "neoliberal"], "definition": "A political and economic framework that emphasizes market solutions and privatization..." },
-    { "id": "affect", "name": "Affect Economy", "terms": ["affect economy"], "definition": "A system in which emotions such as compassion and urgency become resources that mobilize volunteer labor..." },
-    { "id": "diss_cap", "name": "Disaster Capitalism", "terms": ["disaster capitalism"], "definition": "The practice of using crises as opportunities for profit, where emergency conditions justify corporate expansion..." },
-    { "id": "need", "name": "Moralization of Need", "terms": ["moralization of need"], "definition": "The framing of assistance as something that must be deserved or earned..." },
-    { "id": "struct_ineq", "name": "Structural Inequality", "terms": ["structural inequality", "structural violence"], "definition": "Persistent patterns of disadvantage produced by historical and institutional arrangements..." }
+    {
+      "id": "mkt_rec",
+      "name": "Market-Based Recovery",
+      "terms": ["for-profit recovery", "market-based recovery", "privatization of recovery"],
+      "definition": "The outsourcing of government disaster relief to private, for-profit corporations, which often prioritizes bureaucratic efficiency and corporate revenue over the immediate needs of survivors."
+    },
+    {
+      "id": "neolib",
+      "name": "Neoliberalism",
+      "terms": ["neoliberalism", "neoliberal"],
+      "definition": "A political and economic framework that emphasizes market solutions, privatization, and individual responsibility, often reshaping public problems—such as disaster recovery—into matters of efficiency, entrepreneurship, and profit."
+    },
+    {
+      "id": "priv",
+      "name": "Privatization",
+      "terms": ["privatization", "private", "privatized"],
+      "definition": "The transfer of responsibilities traditionally handled by the public sector to private, for-profit corporations, altering how care, accountability, and resources are distributed."
+    },
+    {
+      "id": "market",
+      "name": "Marketization",
+      "terms": ["marketization"],
+      "definition": "The process by which social needs and public services are reorganized according to market logics, including performance metrics, cost-efficiency, and profitability."
+    },
+    {
+      "id": "affect",
+      "name": "Affect Economy",
+      "terms": ["affect economy"],
+      "definition": "A system in which emotions such as compassion, urgency, hope, and moral obligation become resources that mobilize labor (especially volunteer labor) and sustain recovery efforts without structural change."
+    },
+    {
+      "id": "diss_cap",
+      "name": "Disaster Capitalism",
+      "terms": ["disaster capitalism"],
+      "definition": "The practice of using crises as opportunities for profit, where emergency conditions justify no-bid contracts, deregulation, and the expansion of corporate power in recovery efforts."
+    },
+    {
+      "id": "need",
+      "name": "Moralization of Need",
+      "terms": ["moralization of need"],
+      "definition": "The framing of assistance as something that must be deserved, earned, or carefully limited, often casting recipients as morally suspect or responsible for their own suffering."
+    },
+    {
+      "id": "struct_ineq",
+      "name": "Structural Inequality",
+      "terms": ["structural inequality", "structural violence"],
+      "definition": "Persistent patterns of disadvantage produced by historical and institutional arrangements that shape who can benefit (and at whose expense) and who cannot."
+    }
   ]
 }
