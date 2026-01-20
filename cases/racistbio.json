@@ -1,0 +1,14 @@
+{
+  "id": "racistbio",
+  "title": "Racist Medical Algorithms",
+  "difficulty": "Difficult",
+  "discipline": ["Medical Anthropology", "Anthropology of Science & Technology", "Critical Race Studies"],
+  "content": "<p>A hospital in the United States uses a standard clinical algorithm to assess kidney function... [rest of content from your file]</p>",
+  "concepts": [
+    { "id": "rbio", "name": "Racist Biology", "terms": ["racist biology"], "definition": "..." },
+    { "id": "construct", "name": "Social Construct", "terms": ["social construct", "cultural construct", "construct", "construction"], "definition": "..." },
+    { "id": "instrace", "name": "Institutionalized Racism", "terms": ["institutionalized racism", "structural racism", "algorithmic racism"], "definition": "..." },
+    { "id": "racebod", "name": "Racialized Bodies", "terms": ["racialized bodies", "racialized body"], "definition": "..." },
+    { "id": "racemed", "name": "Racialization of Medicine", "terms": ["racialization of medicine", "racialization"], "definition": "..." }
+  ]
+}

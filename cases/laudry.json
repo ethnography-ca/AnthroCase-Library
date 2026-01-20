@@ -1,0 +1,12 @@
+{
+  "id": "laundry",
+  "title": "Laundry in the Kitchen?",
+  "difficulty": "Easy",
+  "discipline": ["Cultural Anthropology", "Material Culture"],
+  "content": "<p>When Kirsten Bell moved from Canada to London... [rest of content from your file]</p>",
+  "concepts": [
+    { "id": "mop", "name": "Matter Out of Place", "terms": ["matter out of place"], "definition": "..." },
+    { "id": "nat", "name": "Naturalization", "terms": ["naturalization", "naturalized"], "definition": "..." },
+    { "id": "space", "name": "Spatial Classification", "terms": ["spatial classification", "classification", "ordering"], "definition": "..." }
+  ]
+}

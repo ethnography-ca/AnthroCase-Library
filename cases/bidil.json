@@ -1,0 +1,15 @@
+{
+  "id": "bidil",
+  "title": "Race in a Bottle",
+  "difficulty": "Difficult",
+  "discipline": ["Medical Anthropology", "Anthropology of Science & Technology", "Critical Race Studies"],
+  "content": "<p>In 2005, the U.S. Food and Drug Administration (FDA) approved <strong>BiDil</strong>... [rest of content from your file]</p>",
+  "concepts": [
+    { "id": "rac_med", "name": "Racialized Medicine", "terms": ["racialized medicine", "ethnic drug", "race-specific"], "definition": "..." },
+    { "id": "proxy", "name": "Race as a Proxy", "terms": ["proxy", "substitute", "placeholder"], "definition": "..." },
+    { "id": "knowledge", "name": "Knowledge Production", "terms": ["knowledge production"], "definition": "..." },
+    { "id": "biol_soc", "name": "Biologization of Social Problems", "terms": ["biologization", "social determinants"], "definition": "..." },
+    { "id": "myth", "name": "Race as a Biological Myth", "terms": ["biological myth", "powerful myth"], "definition": "..." },
+    { "id": "medicalization", "name": "Medicalization", "terms": ["medicalization", "medicalized"], "definition": "..." }
+  ]
+}

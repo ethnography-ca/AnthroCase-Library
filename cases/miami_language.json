@@ -1,0 +1,15 @@
+{
+  "id": "miami_language",
+  "title": "Beyond the 'Extinct' Narrative",
+  "difficulty": "Medium",
+  "discipline": ["Linguistic Anthropology", "Indigenous Studies"],
+  "content": "<p>In the mid-20th century, the <strong>Myaamiaataweenki</strong> language... [rest of content from your file]</p>",
+  "concepts": [
+    { "id": "bio_metaphor", "name": "Biological Metaphor", "terms": ["biological metaphors", "biological metaphor"], "definition": "..." },
+    { "id": "erase", "name": "Erasure", "terms": ["erasure", "earased", "erases"], "definition": "..." },
+    { "id": "setller colonialism", "name": "Settler Colonialism", "terms": ["colonialism", "settler colonialism"], "definition": "..." },
+    { "id": "colknow", "name": "Colonial Knowledge", "terms": ["colonial knowledge", "colonial logic"], "definition": "..." },
+    { "id": "reclamation", "name": "Language Reclamation", "terms": ["reclaim", "reclamation"], "definition": "..." },
+    { "id": "langidea", "name": "Language Ideology", "terms": ["language ideology"], "definition": "..." }
+  ]
+}
