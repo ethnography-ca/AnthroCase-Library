@@ -2,14 +2,47 @@
   "id": "miami_language",
   "title": "Beyond the 'Extinct' Narrative",
   "difficulty": "Medium",
-  "discipline": ["Linguistic Anthropology", "Indigenous Studies"],
-  "content": "<p>In the mid-20th century, the <strong>Myaamiaataweenki</strong> language... [rest of text from your source]</p>",
+  "discipline": [
+    "Linguistic Anthropology",
+    "Indigenous Studies"
+  ],
+  "content": "<p>In the mid-20th century, the <strong>Myaamiaataweenki</strong> language of the Miami Tribe of Oklahoma was widely described in academic sources as 'extinct.' Because the last native speakers had stopped using the language in everyday life, linguists classified it as no longer spoken. This classification drew on a broader global narrative that frames Indigenous languages as objects on the brink of disappearance—often through biological metaphors such as <em>endangered, dying, living,</em> or <em>extinct</em>.</p><p>These biological metaphors point to a particular way of thinking that is problematic. In biology, extinction is an irreversible condition: once a species is gone, it cannot return. When applied to language, this logic suggests that efforts to support future language use are futile. Moreover, framing languages as 'extinct' fails to name the historical and structural reasons for language loss, implying it simply happened on its own.</p><p>In the Miami case, however, the language did not 'die' so much as enter a prolonged period of dormancy—what many Miami people describe as the language 'sleeping.' Beginning in the 1990s, community members initiated efforts to reclaim Myaamiaataweenki using historical documentation and community-based teaching. Today, the language is actively used by many Miami people, reframing it not as an object, but as a relational practice rooted in community and identity.</p><hr><p><strong>Source:</strong> Adapted from the research by Dr. Wesley Leonard, a citizen of the Miami Tribe of Oklahoma and linguist anthropologist: <a href=\"https://www.amacad.org/publication/daedalus/refusing-endangered-languages-narratives\" target=\"_blank\">'Refusing “Endangered” Languages Narratives'</a>.</p>",
   "concepts": [
-    { "id": "bio_metaphor", "name": "Biological Metaphor", "terms": ["biological metaphors", "biological metaphor"], "definition": "The use of biological terms to describe entities or processes that are not necessarily biological..." },
-    { "id": "erase", "name": "Erasure", "terms": ["erasure", "earased", "erases"], "definition": "How dominant narratives make certain histories invisible." },
-    { "id": "setller colonialism", "name": "Settler Colonialism", "terms": ["colonialism", "settler colonialism"], "definition": "A form of colonialism in which outsiders come to stay on Indigenous land..." },
-    { "id": "colknow", "name": "Colonial Knowledge", "terms": ["colonial knowledge", "colonial logic"], "definition": "Ways of thinking, classifying, and explaining the world that developed through colonial histories..." },
-    { "id": "reclamation", "name": "Language Reclamation", "terms": ["reclaim", "reclamation"], "definition": "Community-led efforts to restore, use, and pass on a language that was suppressed or disrupted by colonial violence..." },
-    { "id": "langidea", "name": "Language Ideology", "terms": ["language ideology"], "definition": "Shared beliefs and assumptions about what language is, how it should be used, and who counts as a legitimate speaker..." }
+    {
+      "id": "bio_metaphor",
+      "name": "Biological Metaphor",
+      "terms": ["biological metaphors", "biological metaphor"],
+      "definition": "The use of biological terms to describe entities or processes that are not necessarily biological, which for instance incorrectly implies that the loss of the entties is a natural, irreversible process similar to the death of a species. It also may imply a linear evolutionary understanding of those entities."
+    },
+    {
+      "id": "erase",
+      "name": "Erasure",
+      "terms": ["erasure", "earased", "erases"],
+      "definition": "How dominant narratives make certain histories invisible."
+    },
+    {
+      "id": "setller colonialism",
+      "name": "Settler Colonialism",
+      "terms": ["colonialism", "settler colonialism", "colonial history", "colonial"],
+      "definition": "A form of colonialism in which outsiders come to stay on Indigenous land, seek to replace Indigenous peoples, and establish permanent political, social, and cultural systems, rather than simply extracting resources and leaving."
+    },
+    {
+      "id": "colknow",
+      "name": "Colonial Knowledge",
+      "terms": ["colonial knowledge", "colonial logic"],
+      "definition": "Ways of thinking, classifying, and explaining the world that developed through colonial histories and continue to shape what counts as legitimate knowledge, often prioritizing external authority while minimizing or erasing Indigenous perspectives and lived experience."
+    },
+    {
+      "id": "reclamation",
+      "name": "Language Reclamation",
+      "terms": ["reclaim", "reclamation", "language reclamation"],
+      "definition": "Community-led efforts to restore, use, and pass on a language that was suppressed or disrupted by colonial or other forms of structural violence, treating the language as a living practice rather than a lost object."
+    },
+    {
+      "id": "langidea",
+      "name": "Language Ideology",
+      "terms": ["language ideology", "linguistic ideology"],
+      "definition": "Shared beliefs and assumptions about what language is, how it should be used, and who counts as a legitimate speaker, often shaping how languages and speakers are valued or marginalized."
+    }
   ]
 }
