@@ -3,10 +3,10 @@
   "title": "Laundry in the Kitchen?",
   "difficulty": "Easy",
   "discipline": ["Cultural Anthropology", "Material Culture"],
-  "content": "<p>When Kirsten Bell moved from Canada to London... [rest of content from your file]</p>",
+  "content": "<p>When Kirsten Bell moved from Canada to London, she was struck by a common British habit... [rest of text from your source]</p>",
   "concepts": [
-    { "id": "mop", "name": "Matter Out of Place", "terms": ["matter out of place"], "definition": "..." },
-    { "id": "nat", "name": "Naturalization", "terms": ["naturalization", "naturalized"], "definition": "..." },
-    { "id": "space", "name": "Spatial Classification", "terms": ["spatial classification", "classification", "ordering"], "definition": "..." }
+    { "id": "mop", "name": "Matter Out of Place", "terms": ["matter out of place"], "definition": "A concept by Mary Douglas suggesting that 'dirt' is simply anything that is in a location where it does not belong according to a culture's classification system." },
+    { "id": "nat", "name": "Naturalization", "terms": ["naturalization", "naturalized"], "definition": "The process by which a cultural choice becomes so routine that it is treated as an inevitable 'fact' of life rather than a choice." },
+    { "id": "space", "name": "Spatial Classification", "terms": ["spatial classification", "classification", "ordering"], "definition": "The way a society divides and labels physical environments (public vs. private, clean vs. dirty) to dictate which behaviors are appropriate in those spaces." }
   ]
 }
