@@ -2,13 +2,42 @@
   "id": "racistbio",
   "title": "Racist Medical Algorithms",
   "difficulty": "Difficult",
-  "discipline": ["Medical Anthropology", "Anthropology of Science & Technology", "Critical Race Studies"],
-  "content": "<p>A hospital in the United States uses a standard clinical algorithm to assess kidney function... [rest of text from your source]</p>",
+  "discipline": [
+    "Medical Anthropology",
+    "Anthropology of Science & Technology",
+    "Critical Race Studies"
+  ],
+  "content": "<p>A hospital in the United States uses a standard clinical algorithm to assess kidney function. The test, known as the estimated glomerular filtration rate (eGFR), helps clinicians decide whether a patient&apos;s kidneys are functioning normally or whether intervention&mdash;such as medication changes or dialysis&mdash;is required.</p><p>Two patients arrive at the clinic with similar symptoms and comparable lab results. They are the same age, similar body size, and have identical creatinine levels. When their blood samples are processed, the machine generates two different eGFR scores. One patient&apos;s kidney function is classified as borderline but acceptable; the other&apos;s score is automatically adjusted downward, placing them closer to a category that delays treatment or changes clinical decisions.</p><p>The difference is not physiological. It is categorical: The algorithm includes a built-in racial modifier: patients classified as &quot;Black&quot; receive a systematically altered score based on the assumption that Black bodies are biologically different&mdash;specifically, that they have greater muscle mass and therefore higher baseline creatinine levels. This adjustment is treated as a neutral, scientific correction that distinguishes &quot;normal&quot; from &quot;abnormal&quot; kidney function across racial groups. As a result, thousands—possibly millions—of patients experience delayed diagnoses, reduced access to care, or inappropriate treatment. The classification of their bodies as biologically distinct redefines what counts as “normal” health for them, not on the basis of individual physiology, but on inherited racial categories.</p><hr><strong>Source:</strong> Based on research by Dr. Agust&iacute;n Fuentes featured on the podcast <em><a href=\"https://www.abc.net.au/listen/programs/philosopherszone/race-biology-and-medicine/102953484\" target=\"_blank\">The Philosopher&apos;s Zone</em></a>.</p>",
   "concepts": [
-    { "id": "rbio", "name": "Racist Biology", "terms": ["racist biology"], "definition": "The false belief that 'races' are natural, biological divisions of humanity underpinned by essential nature rather than social categorization." },
-    { "id": "construct", "name": "Social Construct", "terms": ["social construct", "cultural construct", "construct", "construction"], "definition": "A category, concept, or distinction that is created, stabilized, and given meaning through collective social practices rather than arising naturally or universally from biology." },
-    { "id": "instrace", "name": "Institutionalized Racism", "terms": ["institutionalized racism", "structural racism", "algorithmic racism"], "definition": "Racism operating not through individual intent, but through routine procedures and standardized knowledge that appear neutral." },
-    { "id": "racebod", "name": "Racialized Bodies", "terms": ["racialized bodies", "racialized body"], "definition": "A body that is socially interpreted, classified, and governed through racial meanings and assumptions." },
-    { "id": "racemed", "name": "Racialization of Medicine", "terms": ["racialization of medicine", "racialization"], "definition": "The processes through which medical knowledge and institutions come to treat socially constructed racial categories as biologically meaningful." }
+    {
+      "id": "rbio",
+      "name": "Racist Biology",
+      "terms": ["racist biology"],
+      "definition": "The false belief that 'races' are natural, biological divisions of humanity underpinned by essential nature rather than social categorization."
+    },
+    {
+      "id": "construct",
+      "name": "Social Construct",
+      "terms": ["social construct", "cultural construct", "construct", "construction"],
+      "definition": "A category, concept, or distinction that is created, stabilized, and given meaning through collective social practices rather than arising naturally or universally from biology."
+    },
+    {
+      "id": "instrace",
+      "name": "Institutionalized Racism",
+      "terms": ["institutionalized racism", "structural racism", "algorithmic racism"],
+      "definition": "Racism operating not through individual intent, but through routine procedures and standardized knowledge that appear neutral."
+    },
+    {
+      "id": "racebod",
+      "name": "Racialized Bodies",
+      "terms": ["racialized bodies", "racialized body"],
+      "definition": "A body that is socially interpreted, classified, and governed through racial meanings and assumptions."
+    },
+    {
+      "id": "racemed",
+      "name": "Racialization of Medicine",
+      "terms": ["racialization of medicine", "racialization"],
+      "definition": "The processes through which medical knowledge and institutions come to treat socially constructed racial categories as biologically meaningful."
+    }
   ]
 }
