@@ -5,5 +5,6 @@
   "cases/bidil.json",
   "cases/miami_language.json",
   "cases/katrina.json",
-  "cases/zombie.json"
+  "cases/zombie.json",
+  "paperslips.json"
 ]
