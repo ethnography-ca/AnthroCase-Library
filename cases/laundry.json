@@ -6,10 +6,22 @@
   "content": "<p>When Kirsten Bell moved from Canada to London, she was struck by a common British habit that baffles many foreigners: the insistence on placing washing machines in the kitchen. To many Canadians and Americans, the kitchen is a space for food, while the laundry—associated with 'dirty' clothes—belongs in a basement, mudroom, or separate utility area.</p><p>In the UK, this convention is so entrenched it is rarely questioned. However, when a prominent British TV host suggested that mixing 'poo, pee, and period' (from laundry) with food preparation was 'disgusting,' she set off a massive cultural debate.</p><p>Historically, British kitchens were service rooms for 'dirt, women, and servants.' But as modern homes became 'open-plan,' the kitchen was reclassified as a social, public living space. For foreigners, this reclassification makes the washing machine feel like an intrusion—a piece of 'dirt' in a clean zone.</p><hr><p><strong>Source:</strong> Based on <em>Do Washing Machines Belong in Kitchens? Many Brits Say Yes.</em> by Kirsten Bell, featured on <a href=\"https://www.sapiens.org/culture/silent-but-deadly-kirsten-bell/\" target=\"_blank\">SAPIENS.org</a>.</p>",
   "concepts": [
     {
-      "id": "mop",
+      "id": "moop",
       "name": "Matter Out of Place",
       "terms": ["matter out of place"],
       "definition": "A concept by Mary Douglas suggesting that 'dirt' is simply anything that is in a location where it does not belong according to a culture's classification system."
+    },
+    {
+      "id": "pur",
+      "name": "Purity and Polution",
+      "terms": ["purity", "polution", "purity and polution"],
+      "definition": "The cultural system through which societies classify substances, spaces, and practices as clean or dirty. What counts as 'pollution' is not inherent but depends on how categories are organized and defended."
+    },
+    {
+      "id": "publicprivate",
+      "name": "Public-Private Boundary",
+      "terms": ["public/private", "public vs. private", "public/private distinction", "public-private distinction", "public/private boundary", "public-private boundary"],
+      "definition": "A cultural distinction that separates spaces and activities meant for display, sociability, and respectability from those associated with intimacy, bodily maintenance, or concealment."
     },
     {
       "id": "nat",
