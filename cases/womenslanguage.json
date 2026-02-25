@@ -1,14 +1,14 @@
 {
   "id": "womenslanguage",
   "title": "'Fixing' Women's Language",
-  "difficulty": "Medium",
+  "difficulty": "Easy",
   "discipline": ["Linguistic Anthropology", "Feminist Linguistics"],
   "content": "<p>Popular business media and self-help advice columns have increasingly told women that their professional success depends on changing how they speak. One widely circulated article in <em>Business Insider</em> argued that women undermine their authority by using the word “just” in emails and conversations—for example, writing “I just wanted to check in” instead of “I am checking in.” According to the article, such language signals insecurity and a lack of confidence. The author, a former Google executive, even described an informal exercise in which an audience counted how often a woman speaker used “just” compared to a male speaker, concluding that women use it far more frequently and should eliminate it to appear more authoritative. This advice is part of a broader genre of professional guidance encouraging women to remove so-called “weak” linguistic features—hedges (“kind of,” “maybe”), qualifiers, tag questions, and polite softeners—in order to project confidence and leadership. These recommendations are typically framed as empowering: by adjusting their speech, women can supposedly overcome bias and succeed in male-dominated workplaces. Linguist Deborah Cameron challenges this pattern by asking why such scrutiny is overwhelmingly directed at women. Public commentary rarely tells men to monitor and modify their everyday speech in order to be taken seriously. Cameron also questions the evidence behind claims about women’s language. Words like “just” serve multiple communicative functions: depending on context, they can signal emphasis, precision, or politeness. Treating them as universal markers of weakness oversimplifies how language works and ignores variation among speakers. More importantly, focusing on individual women’s speech patterns may deflect attention from broader workplace norms that equate authority with traditionally masculine styles of communication. The result is a form of linguistic self-surveillance: women are encouraged to monitor their emails, presentations, and conversations for signs of inadequacy, while the social expectations that define certain speech styles as powerful remain largely unquestioned.<hr><strong>Source:</strong> Adapted from <a href="https://debuk.wordpress.com/2015/07/05/just-dont-do-it/" target="_blank" rel="noopener noreferrer">Just Don’t Do It!</a>, a blog post written by Deborah Cameron.</p>",
   "concepts": [
     {
       "id": "deficit",
       "name": "Deficit Model",
-      "terms": ["deficit model", "deficit""],
+      "terms": ["deficit model", "deficit"],
       "definition": "assumption that a particular group’s behavior is inherently 'lacking' compared to a dominant norm."
     },
     {
